@@ -55,7 +55,7 @@ To manage infrastructure, simulate designs, and write our custom integration scr
 
 Are you an architect, builder, project manager, or IT administrator? We love collaborating on turnkey projects!
 
-* 🌐 **Website:** [www.krishnaenterprises.com](https://www.krishnaenterprises.in)
+* 🌐 **Website:** [www.krishnas-enterprises.in](https://www.krishnaenterprises.in)
 * 📧 **Business Inquiries:** aditya@krishnas-enterprises.in
 * 📍 **Headquarters:** [Delhi, India]
 
